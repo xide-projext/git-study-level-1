@@ -1,2 +1,2 @@
-# git-study-level-1
+# git-study-level-1 - A
 My name is README
