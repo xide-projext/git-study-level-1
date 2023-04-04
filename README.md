@@ -1,1 +1,2 @@
-# git-study-level-1-b
+ # my_project_1 from B
+My name is README
